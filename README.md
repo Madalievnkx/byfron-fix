@@ -16,5 +16,3 @@ A: Currently, undetected. Check back regularly, I will inform you once the first
 
 I'm not responsible for what you do using this program. This was written as a collaboration between xayre tele members. Donate if you want.
 
-
-
